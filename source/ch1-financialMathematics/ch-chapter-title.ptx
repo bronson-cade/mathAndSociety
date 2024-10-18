@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch1-financialMathematics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Financial Mathematics</title>
+
+  <introduction>
+    <p> We have to work with money every day. While balancing your checkbook or calculating your monthly expenditures on espresso requires only arithmetic, when we start saving, planning for retirement, or need a loan, we need more mathematics.</p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="payday-lending.xml"/>
+
+</chapter>
